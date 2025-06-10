@@ -1,0 +1,39 @@
+Dev Notes – Music Mixer Project
+
+Project Goal:
+The goal of this project is to create an interactive web-based music mixer. Users will be able to drag and drop audio tracks, play/pause music, and control volume. The project is a collaboration between a developer and a designer.
+
+Research Summary:
+
+Audio Features:
+- Researched how to use the HTML5 <audio> element and Web Audio API.
+- Explored libraries like Howler.js and Tone.js for future expansion.
+- Initial testing includes basic audio playback, pause, and volume control using JavaScript.
+
+Drag and Drop:
+- Using native HTML5 drag-and-drop events like dragstart, dragover, and drop.
+- Users will drag sample tracks into drop zones on the mixer interface.
+
+Planned Features:
+- Grid layout with loop drop zones.
+- Volume slider and play/pause buttons.
+- Multiple audio tracks can be dropped and triggered separately.
+- Mute/unmute functionality (if time allows).
+
+Tools & Stack:
+- HTML, CSS, JavaScript
+- Git and GitHub (with main, design, and development branches)
+- Visual inspiration collected using Pinterest and Figma
+
+Current Progress:
+- Project folder structure has been set up
+- Basic HTML and CSS layout done
+- Audio testing started in script.js
+- Drag-and-drop logic in planning phase
+
+Next Steps:
+- Implement drag and drop functionality for tracks
+- Add event listeners for play/pause/volume
+- Style controls to match design inspiration
+- Finalize visual layout and test responsiveness
+
